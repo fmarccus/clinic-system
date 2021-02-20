@@ -1,0 +1,13 @@
+For available data types that can be used in creating the database
+https://laravel.com/docs/8.x/migrations#creating-columns
+
+For dummy/fake values
+https://github.com/fzaninotto/Faker
+
+index - to display all records
+
+Table documentations
+https://getbootstrap.com/docs/4.0/content/tables/
+
+instant validations
+https://laravel.com/docs/8.x/validation
