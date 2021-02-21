@@ -24,7 +24,7 @@ class PatientController extends Controller
     {
         return view('patients.create');
     }
-    public function store(Request $request)
+    public function store(PatientStoreRequest $request)
     {
         $patient = Patient::create($request->all());//if there are no images
         return back()->with('saved',' ');
